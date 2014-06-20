@@ -1,7 +1,9 @@
 Call-of-Cthulhu-Writing-Public
 ==============================
 
-Game Adventures
+This is my writing for the public for my adventures using Call of Cthulhu.
+
+Portland at the End
 
 The new version of Call of Cthulhu 7th edition is not out yet, but it seemed still possible with the basic introductory PDF to write a adventure for it. I have built an open content adventure for it. 
 
