@@ -18,3 +18,10 @@ I do have an original copy (and an orginal Call of Cthulhu set).
 In this adventure the in the 1890s in England the players meet Sherlock Holmes! It is difficult adventure to play as it is 
 hard to work out the action sequences. I redid the action to make it more clear and logical to me. ]
 Anyone with the original set could use my notes to play with Savage Worlds and Call of Cthlhu.
+
+When an Unexpected Card Is Drawn
+
+This is an original work from me set in the 80's that recalls my days learning software development in Michigan, USA.
+I have recreated some of the old systems and ways we use to do things back then.
+This is a fun Savaga Worlds and Agents of Oblivion fan work that I put together for my own campaign.
+It would easily convert to any of the horror systems. Enjoy! 
