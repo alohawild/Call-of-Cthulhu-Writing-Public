@@ -29,5 +29,6 @@ This is a fun Savaga Worlds and Agents of Oblivion fan work that I put together 
 It would easily convert to any of the horror systems. Enjoy! 
 
 Istanbul Discovery 
+
 This is set in a more tradtional 1926 for Call of Cthulhu and is for 7th Edition.
 This is a quick introduction to Istanbul in 1926 and four short adventurers in the city. 
