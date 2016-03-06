@@ -32,4 +32,4 @@ Istanbul Discovery
 
 This is set in a more tradtional 1926 for Call of Cthulhu and is for 7th Edition.
 This is a quick introduction to Istanbul in 1926 and four short adventurers in the city. 
-This is my newest writing.
+This is my newest writing. It is not finished yet. 
