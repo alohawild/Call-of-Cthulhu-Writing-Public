@@ -15,12 +15,12 @@ The docx is my current version. I update the PDF once in a while. I am still wor
 
 Gaslight The Yorkshore Horrors
 
-This is a rework of the 1986 Adventure to use Savage Worlds. You have to have the old 1986 Gaslight set really to play this.
-I do have an original copy (and an orginal Call of Cthulhu set).
+This is a rework of the 1986 Adventure to use Savage Worlds. You have to have the old 1986 Gaslight set to play this.
+I do have an original copy (and an orginal Call of Cthulhu set) and consider this a "fan" work.
 
 In this adventure the in the 1890s in England the players meet Sherlock Holmes! It is difficult adventure to play as it is 
-hard to work out the action sequences. I redid the action to make it more clear and logical to me. ]
-Anyone with the original set could use my notes to play with Savage Worlds and Call of Cthlhu.
+hard to work out the action sequences. I redid the action to make it more clear and logical to me.
+Anyone with the original set could use my notes to play it with Savage Worlds and/or Call of Cthulu.
 
 When an Unexpected Card Is Drawn
 
